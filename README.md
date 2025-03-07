@@ -1,6 +1,6 @@
 # **FixerX – Turning Math Mishaps into Math Masterpieces! 🎯✨**  
 ![FixerX](https://img.shields.io/badge/FixerX-AI%20Math%20Meme%20Fixer-blueviolet)  
-🚀 **FixerX** is an AI-powered tool that **detects and corrects incorrect viral math memes** using the **DeepSeek-Math 7B RL** model. Whether it's misinterpreted order of operations or a basic algebra mistake, **FixerX ensures math accuracy with a touch of sass!** 😆
+🚀 **FixerX** is an AI-powered tool that **detects and corrects incorrect viral math memes** using the **DeepSeek-Math 7B R1** . Fine-tuned with LoRA, it accurately fixes mathematical errors while providing a fun "Error Rating" feature. Built with Hugging Face, PyTorch, and Streamlit, FixerX offers an interactive UI for users to test and improve math statements. 🚀📊
 
 ---
 
